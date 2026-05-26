@@ -20,7 +20,7 @@
 
 | Tampilan Login Page | Tampilan Login Gagal |
 |:-------------------:|:--------------------:|
-| ![Login](screenshots/login.jpg) | <img width="1080" height="2400" alt="logingagal" src="https://github.com/user-attachments/assets/b2350dae-b998-457f-ad75-928cfbc1c090" />|
+| <img width="1080" height="2400" alt="login" src="https://github.com/user-attachments/assets/2deea316-425c-49f1-9368-2c749067d319" /> | <img width="1080" height="2400" alt="logingagal" src="https://github.com/user-attachments/assets/b2350dae-b998-457f-ad75-928cfbc1c090" /> |
 
 | Tampilan Request Gagal | Tampilan Loading |
 |:----------------------:|:----------------:|
